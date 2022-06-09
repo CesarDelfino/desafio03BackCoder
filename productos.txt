@@ -1,0 +1,21 @@
+[
+    {
+        "nombre":"Silla sin apoyabrazos",
+        "precio":5500,
+        "thumbnail":"https://www.mueblesmanzo.com/media/catalog/product/cache/5a38f6614905178fa07804facc7b33a0/s/i/silla-julieta-esterillada-_2_.jpg",
+        "id":1
+    }
+
+    {
+        "nombre":"Silla con apoyabrazos",
+        "precio":7000,
+        "thumbnail":"https://www.mueblesmanzo.com/media/catalog/product/cache/5a38f6614905178fa07804facc7b33a0/s/i/sillon-de-cabecera-julieta-esterillada-_1_.jpg",
+        "id":2
+    }
+
+    {
+        "nombre":"Silla tapizado arte01",
+        "precio":9000,
+        "thumbnail":"https://www.mueblesmanzo.com/media/catalog/product/cache/5a38f6614905178fa07804facc7b33a0/s/i/silla-divi-_2_.jpg","id":3
+    }
+]
